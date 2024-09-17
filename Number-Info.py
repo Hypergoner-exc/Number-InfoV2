@@ -1,6 +1,5 @@
 
 clear
-sleep 1
 figlet -f shadow "Number-InfoV2"
 echo "silahkan masukkan nomor target 👇🏻"
 import phonenumbers
